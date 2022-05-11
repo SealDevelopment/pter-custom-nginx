@@ -1,1 +1,3 @@
-# pter-custom-nginx
+# pterodactyl-nginx
+
+self explanatory
